@@ -1,0 +1,12 @@
+{
+  "product": "NKBController",
+  "version": "1.0.9",
+  "versionCode": 10009,
+  "hardware": "1.0",
+  "board": "lolin_s3",
+  "profile": "urban",
+  "file": "firmware_nkbcontroller_lolin_s3_pro.bin",
+  "sha256": "f89af7a1e3b6834d5eb2c69ad3d341174357e7f01d0be74a13d98efb3b809098",
+  "minIosAppVersion": "2.0.8",
+  "notes": "OTA updates fixes. Abort, disconnect after abort and auto recoonect are now working."
+}
