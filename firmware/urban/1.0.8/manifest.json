@@ -1,0 +1,12 @@
+{
+  "product": "NKBController",
+  "version": "1.0.8",
+  "versionCode": 10008,
+  "hardware": "1.0",
+  "board": "lolin_s3",
+  "profile": "urban",
+  "file": "firmware_nkbcontroller_lolin_s3_pro.bin",
+  "sha256": "a8376100a8bcae224e82bf5610561abbbf84fb9f4e25df9d4ef87c558e593813",
+  "minIosAppVersion": "2.0.8",
+  "notes": "Initial NKBController PCB V1 firmware release with OTA updates."
+}
