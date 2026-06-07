@@ -1,0 +1,12 @@
+{
+  "product": "NKBController",
+  "version": "1.0.10",
+  "versionCode": 10010,
+  "hardware": "1.0",
+  "board": "lolin_s3",
+  "profile": "urban",
+  "file": "firmware_nkbcontroller_lolin_s3_pro.bin",
+  "sha256": "4e1e372992585d97687d0290b08210bf572538ca41555b782f14ed0a73e42725",
+  "minIosAppVersion": "2.0.8",
+  "notes": "Direct OTA, verified end-to-end, no staging file, normal reboot after install."
+}
