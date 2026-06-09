@@ -6,7 +6,7 @@
   "board": "lolin_s3",
   "profile": "urban",
   "file": "firmware_nkbcontroller_lolin_s3_pro.bin",
-  "sha256": "20ca02cf1090351c673e7a07721fa0981f4d7a9aca338ed3c70297ebce1ae5cf",
+  "sha256": "6eb4385e3786668c1bb6024e8020c461bf41a0a708ee0fea567a122572aa668b",
   "minIosAppVersion": "2.0.8",
   "notes": "For 14s LiIon battery Voltages were set to min:44.8V, low:47.6V and max:58.8V."
 }
