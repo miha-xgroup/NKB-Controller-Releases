@@ -1,0 +1,12 @@
+{
+  "product": "NKBController",
+  "version": "1.0.11",
+  "versionCode": 10011,
+  "hardware": "1.0",
+  "board": "lolin_s3",
+  "profile": "offroad",
+  "file": "firmware_nkbcontroller_offroad_lolin_s3_pro.bin",
+  "sha256": "7f7f260a0a0b4f43cc44764d5ba23656d859e3ad1c2da3ad4f188cf8362c1002",
+  "minIosAppVersion": "2.0.8",
+  "notes": "Initial OffRoad profile for 20S batteries: 64.0V minimum, 68.0V low warning, 85.0V maximum, and 150A Rocket motor current."
+}
