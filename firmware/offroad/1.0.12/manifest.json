@@ -1,0 +1,12 @@
+{
+  "product": "NKBController",
+  "version": "1.0.12",
+  "versionCode": 10012,
+  "hardware": "1.0",
+  "board": "lolin_s3",
+  "profile": "offroad",
+  "file": "firmware_nkbcontroller_offroad_lolin_s3_pro.bin",
+  "sha256": "3f2040d4c80a3e010af9e00185809f770b09c5a199056e9b2a9edf7e7dc04b4f",
+  "minIosAppVersion": "2.0.8",
+  "notes": "Correct the 20S maximum battery voltage from 85.0V to 84.0V. OffRoad defaults: 64.0V minimum and 68.0V low warning."
+}
