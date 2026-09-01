@@ -1,0 +1,12 @@
+{
+  "product": "NKBController",
+  "version": "1.0.14",
+  "versionCode": 10014,
+  "hardware": "1.0",
+  "board": "lolin_s3",
+  "profile": "urban",
+  "file": "firmware_nkbcontroller_lolin_s3_pro.bin",
+  "sha256": "3cbf0683913b53a650d84179294e569e27c29687fafab88c2e2f5ad88b5fe211",
+  "minIosAppVersion": "2.0.8",
+  "notes": "Adds vehicle-profile support, ride-mode current limits, Rocket mode integration, improved OTA handling, diagnostics, telemetry and controller stability updates. Urban retains 14S defaults."
+}

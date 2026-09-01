@@ -1,0 +1,12 @@
+{
+  "product": "NKBController",
+  "version": "1.0.14",
+  "versionCode": 10014,
+  "hardware": "1.0",
+  "board": "lolin_s3",
+  "profile": "offroad",
+  "file": "firmware_nkbcontroller_offroad_lolin_s3_pro.bin",
+  "sha256": "b0c1cb2060a7dca20d506eb73272661fac5cdb6b7690d3bd4ac7a6d9361da413",
+  "minIosAppVersion": "2.0.8",
+  "notes": "Initial Offroad release for the 20S platform with separate settings, 84V battery range, Offroad ride-mode current and regen limits, and two-minute Rocket mode integration."
+}
