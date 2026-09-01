@@ -1,0 +1,12 @@
+{
+  "product": "NKBController",
+  "version": "1.0.13",
+  "versionCode": 10013,
+  "hardware": "1.0",
+  "board": "lolin_s3",
+  "profile": "offroad",
+  "file": "firmware_nkbcontroller_offroad_lolin_s3_pro.bin",
+  "sha256": "5c5de5a1e636a40f8473ae2faedd5a27b31ddbc5314f53f6e3c2bb8b1b6dcc3f",
+  "minIosAppVersion": "2.0.8",
+  "notes": "Raise OffRoad default battery current limits from 50A to 60A in Eco and from 80A to 90A in Tour after thermal testing."
+}
